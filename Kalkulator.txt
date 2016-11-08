@@ -1,0 +1,20 @@
+- w³¹cz kalkulator
+- wyœwietl dostêpne opcje
+- wprowadŸ cyfry lub liczby
+- wybierz dzia³anie:
+-- je¿eli [+] -> dodaj liczbê1 do liczby2
+-- je¿eli [-] -> odejmij od liczby1 liczbê2
+-- je¿eli [*] -> pomnó¿ liczbê1 przez liczbê2
+-- je¿eli [/] -> podziel liczbê1 przez liczbê2
+-- je¿eli [%] -> sprocentuj liczbê
+-- je¿eli [?] -> spierwiastkuj liczbê
+-- je¿eli [±] -> zmieñ liczbê na przeciwn¹
+-- je¿eli [C] -> skasuj ca³e dzia³anie
+-- je¿eli [MC] -> wyczyœæ pamiêæ
+-- je¿eli [MR] -> przywróæ na wyœwietlacz liczbê zapisan¹ w pamiêci
+-- je¿eli [MS] -> zapisz dan¹ liczbê w pamiêci
+-- je¿eli [M+] -> dodaj liczbê do pamiêci
+-- je¿eli [M-] -> odejmij liczbê z pamiêci
+-- je¿eli [CE] -> skasuj ostatnie dzia³anie
+- przelicz
+- wyœwietl wynik
